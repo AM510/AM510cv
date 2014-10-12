@@ -1,0 +1,89 @@
+body {
+    line-height: 32px;
+    background-color: #f0f0f0;
+}
+
+p {
+    margin: 0 0 14px 0;
+    font-family: Georgia, Sans-serif;
+    font-size: 18px;
+    font-stretch: expanded;
+}
+
+.small {
+    font-size: 16px;
+    text-align: right;
+}
+h1 { 
+    margin: 0 0 16px 0;
+    padding: 0 0 16px 0;
+    font-size: 38px;
+    font-weight: bold;
+    letter-spacing: -2px;
+    border-bottom: 1px solid #999;
+}
+
+h2 { 
+    font-size: 26px;
+    margin: 0 0 6px 0;
+    position: relative;
+}
+
+.oneletter {
+    font-size: 26px;
+    font-family: serif;
+}
+
+#page-wrap {
+    width: 800px;
+    margin: 40px auto 60px;
+
+}
+
+#pic {
+    float: right;
+    width: 33%;
+    margin: -30px 0 0 0;
+    vertical-align: middle;
+}
+
+#aboutme { 
+    width: 58%;
+    float: left;
+    margin: 0px 0 16px 0;
+}
+
+#aboutme p { 
+    font-family: Georgia, Tahoma; 
+    font-style: italic; 
+    font-size: 16px;
+    color: #666; 
+    margin: 0 0 16px 0;
+}
+
+table {
+    margin: 50px 0px 20px 0px;
+    width: 90%;
+    border-collapse: separate;
+    border-spacing: 10px;
+}
+
+tr {
+    margin: 0 0 16px 0;
+}
+
+tr.blank {
+    margin: 32px 0 32px 0;
+}
+
+td.left {
+    width: 25%;
+    text-align: center;
+    vertical-align: middle;
+    border-right: 1px solid #000;
+}
+
+td.right {
+    width: 75%;
+    text-align:left;
+}
